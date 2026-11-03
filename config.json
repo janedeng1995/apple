@@ -1,0 +1,78 @@
+{
+  "cookies": [
+    {
+      "id": "task-69918dd5404a4f9782edb44b7c1a2017",
+      "name": "阿白",
+      "cookie_file": "F:\\360MoveData\\Users\\Administrator\\Desktop\\Apple小程序\\apple-monitor-pro-master\\身份\\自动登录-阿白-uf0OjA.txt",
+      "sku": "MJY64CH/A",
+      "enabled": true,
+      "buyer": "发多少",
+      "store_source": "store",
+      "stores": [
+        "R765"
+      ],
+      "store": "R765",
+      "per_order": 1,
+      "want": 1
+    }
+  ],
+  "buyers": [
+    {
+      "id": "buyer-b05e38e454f245dfa83a233b1d571249",
+      "name": "发多少",
+      "phone": "15574568877",
+      "email": "",
+      "last4": "1234",
+      "skus": [
+        "MJY64CH/A",
+        "MJY74CH/A",
+        "MJT74CH/A"
+      ],
+      "cities": [
+        "北京",
+        "南宁",
+        "厦门",
+        "合肥"
+      ],
+      "last_name": "发",
+      "first_name": "多少",
+      "want": 1,
+      "enabled": true
+    }
+  ],
+  "cities": {},
+  "settings": {
+    "dry_run": false,
+    "auto_submit": true,
+    "warmup_mode": "snipe",
+    "time_slot_index": 1,
+    "prewarm_interval_sec": 0.0,
+    "prewarm_contact": true,
+    "require_time_slot": false,
+    "debug_checkout": false,
+    "status_poll_sec": 3.0,
+    "status_poll_max": 20,
+    "max_parallel_buy": 2,
+    "proxy_enabled": false,
+    "proxy_api_url": "",
+    "proxy_rotate_sec": 60.0,
+    "proxy_mode": "per_account",
+    "qr_cookie": "",
+    "scan_concurrency": 12,
+    "scan_interval_sec": 0.4,
+    "session_rebuild_sec": 600,
+    "retry_no_slot_sec": 15,
+    "settle_gap_sec": 2.0,
+    "store_cool_sec": 15,
+    "alarm_sec": 45,
+    "email": {
+      "enabled": true,
+      "host": "smtp.qq.com",
+      "port": 465,
+      "user": "",
+      "pass": "",
+      "to": []
+    },
+    "account_service_url": "http://127.0.0.1:5050"
+  }
+}
