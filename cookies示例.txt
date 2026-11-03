@@ -1,0 +1,3 @@
+# 把抓包 cookie 整串粘贴到下面这一行（开头不要留 #）
+# 位置：浏览器 DevTools → 抓到请求 → Copy as cURL → -b 后面那一整串
+dssf=1; dssid2=这里替换成你的; as_uct=0; acn01=这里替换成你的; geo=CN; site=CHN; dslang=CN-ZH

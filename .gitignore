@@ -1,0 +1,15 @@
+config.json
+config.share.json
+config.local*.json
+orders-ledger.json
+orders.json
+logs/
+sessions/
+支付二维码/
+身份/*.txt
+!身份/示例-请替换.txt
+!身份/README-身份文件格式.txt
+*.tmp
+tmp/
+# 打包时的旧版本备份（26MB 二进制，别进仓库）
+AppleMonitorPro.before-*.exe
